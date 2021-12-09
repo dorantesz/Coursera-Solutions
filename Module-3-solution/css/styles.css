@@ -1,0 +1,53 @@
+#header-nav {
+    background-color: rgb(81, 160, 136);
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    border-radius: 0;
+    padding-bottom: 15px;
+}
+
+.navbar-brand h1 {
+    color: black;
+    margin-top: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#nav-list a {
+    color: black;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+#nav-list a:hover {
+    background: khaki;
+}
+
+.navbar-header button.navbar-toggle span.icon-bar {
+    border: 1px solid black;
+}
+
+.navbar-default .navbar-toggle {
+    background: mintcream;
+    border: 1px solid black;
+}
+
+h2 {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    height: 1000px;
+    background-color: paleturquoise;
+}
+
+.main-text {
+    margin: 25px;
+}
+
+
+
+
